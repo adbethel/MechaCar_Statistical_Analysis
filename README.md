@@ -11,6 +11,7 @@ Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 Part 2
+Summary Statistics on Suspension CAoils
 
 ![Screen Shot 2022-12-11 at 3 02 43 PM](https://user-images.githubusercontent.com/112285856/206926096-836c1ed6-e5e5-481f-af4e-22efdebe8c14.png)
 
@@ -18,10 +19,12 @@ Part 2
 Summary:
 
 Part 3:
-
+T-Test Suspension Coils
 
 ![Screen Shot 2022-12-11 at 3 25 38 PM](https://user-images.githubusercontent.com/112285856/206927061-073a26d5-a820-4a0f-afc7-43b084aa48e3.png)
 
 ![Screen Shot 2022-12-11 at 3 28 32 PM](https://user-images.githubusercontent.com/112285856/206927174-ea83a678-c59d-4c3c-bf61-7adedb558e3e.png)
 
 ![Screen Shot 2022-12-11 at 3 31 06 PM](https://user-images.githubusercontent.com/112285856/206927255-8478bbcd-3578-4630-96c8-ff9813782e55.png)
+
+![Screen Shot 2022-12-11 at 3 33 05 PM](https://user-images.githubusercontent.com/112285856/206927337-e722dc3a-ec0e-4da4-8884-3e368f2c72a9.png)
