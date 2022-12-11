@@ -18,4 +18,8 @@ Part 2
 Summary:
 
 Part 3:
+
+
 ![Screen Shot 2022-12-11 at 3 25 38 PM](https://user-images.githubusercontent.com/112285856/206927061-073a26d5-a820-4a0f-afc7-43b084aa48e3.png)
+
+![Screen Shot 2022-12-11 at 3 28 32 PM](https://user-images.githubusercontent.com/112285856/206927174-ea83a678-c59d-4c3c-bf61-7adedb558e3e.png)
