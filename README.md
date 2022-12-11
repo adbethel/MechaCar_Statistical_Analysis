@@ -16,3 +16,6 @@ Part 2
 
 ![Screen Shot 2022-12-11 at 3 03 50 PM](https://user-images.githubusercontent.com/112285856/206926131-6032b87b-caad-40f0-8635-f92f6d2d9802.png)
 Summary:
+
+Part 3:
+![Screen Shot 2022-12-11 at 3 25 38 PM](https://user-images.githubusercontent.com/112285856/206927061-073a26d5-a820-4a0f-afc7-43b084aa48e3.png)
